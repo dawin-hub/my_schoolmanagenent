@@ -1,1 +1,1 @@
-# my_schoolmanagenent
+# my_schoolmanagenent on github
